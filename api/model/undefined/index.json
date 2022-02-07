@@ -2,7 +2,7 @@
     "posted": "Dreamer-Paul",
     "model": "model.moc",
     "textures": [
-        "textures/texture_00.png"
+        "https://gitee.com/yl3021027861/demo/raw/master/img/texture_00.png"
     ],
     "layout": {
         "center_x": 0.0,
